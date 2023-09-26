@@ -46,7 +46,7 @@ each instance of the child-specific processing to complete.
 
 # Example Output
 ```
-./coordinator 3 3 20 49 102
+> ./coordinator 3 3 20 49 102
 Coordinator: forked process with ID 23339.
 Coordinator: waiting for process [23339].
 Checker process [23339]: Starting.
